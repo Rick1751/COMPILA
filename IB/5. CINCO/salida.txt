@@ -1,0 +1,6 @@
+Letras mayusculas : 1
+Letras minusculas : 3
+Digitos           : 3
+Espacios en blanco: 2
+Otros caracteres  : 1
+Total             : 10

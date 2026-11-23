@@ -1,0 +1,6 @@
+Ingrese una lista separada por comas:
+Identificador valido: uno
+Numero entero valido: 2
+Identificador valido: tres
+
+Lista procesada correctamente.

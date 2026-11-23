@@ -1,0 +1,5 @@
+Buenos dias, este es el Comando inicio ejecutado
+ de la seccion de practicas en la materia. Si nadie nos dice Comando pare recibido
+, entonces hemos de seguir con un nuevo Comando inicio ejecutado
+ de programas. Hasta cuando se nos diga Comando pare recibido
+

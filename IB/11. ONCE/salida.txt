@@ -1,0 +1,8 @@
+Ingrese numeros binarios:
+Binario: 1010
+Decimal: 10
+
+Numero binario no valido: 2
+Binario: 11
+Decimal: 3
+

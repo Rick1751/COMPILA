@@ -1,0 +1,2 @@
+Ingrese un texto (Ctrl+Z en Windows / Ctrl+D en Linux para terminar):
+hola mundo 123

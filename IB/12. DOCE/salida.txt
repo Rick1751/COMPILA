@@ -1,0 +1,8 @@
+Ingrese numeros hexadecimales:
+Hexadecimal: 0x1F
+Decimal: 31
+
+Hexadecimal: 0Xb
+Decimal: 11
+
+Hexadecimal no valido: 123

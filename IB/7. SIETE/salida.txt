@@ -1,0 +1,3 @@
+Ingrese una expresion (Ctrl+Z en Windows / Ctrl+D en Linux para terminar):
+OPERADOR ARITMETICO (SUMA): +
+OPERADOR RELACIONAL (MENOR O IGUAL): <=

@@ -1,0 +1,8 @@
+TOKEN		LEXEMA
+-----		------
+CORREO_VALIDO	juan.perez@example.com
+NO_RECONOCIDO	mal@correo
+NO_RECONOCIDO	bad@@x.com
+
+Correos validos  : 1
+No reconocidos   : 2
